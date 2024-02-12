@@ -1,0 +1,21 @@
+.border-cm{
+
+    border: solid red 3px ;
+}
+p span{
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sideBtn{
+
+    background-color: #4a00ff !important;
+    padding: 2px 6px ;
+    border-radius: 6px;
+    font-size: 16;
+}
+.sideBtn:hover {
+
+    background-color: #4405e3 !important;
+}
