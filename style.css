@@ -14,8 +14,16 @@ p span{
     padding: 2px 6px ;
     border-radius: 6px;
     font-size: 16;
+    margin: auto;
+    color: black;
+    text-shadow: yellow;
 }
 .sideBtn:hover {
 
     background-color: #4405e3 !important;
+}
+
+.border-cm{
+
+    border: solid red 3px ;
 }
